@@ -1,4 +1,6 @@
 # Arduino Car Parking Sensor
+**Tinkercad Project Link:**  
+[https://www.tinkercad.com/things/8X8ctl3j0ue-carparking-sensor?sharecode=ZMTOxCNtBenuLr0HTT8puMtHmOnyRJXyukXnUVJYBGI](https://www.tinkercad.com/things/8X8ctl3j0ue-carparking-sensor?sharecode=ZMTOxCNtBenuLr0HTT8puMtHmOnyRJXyukXnUVJYBGI)
 
 This project is an ultrasonic-based car parking assist system for
 Arduino.\
